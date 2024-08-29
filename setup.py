@@ -7,7 +7,7 @@ setup(
     url='https://github.com/MED-B/odoo_endpoint.git',
 
     author='MED-B',
-    author_email='MED-B',
+    author_email='mohmed.khellaf@gmail.com',
     license='BSD 2-clause',
     #packages=[],
     install_requires=['odoo'],
