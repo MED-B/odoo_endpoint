@@ -1,2 +1,2 @@
 from . import exceptions
-from . import  endpoint_wrapper
+from . import endpoint_wrapper

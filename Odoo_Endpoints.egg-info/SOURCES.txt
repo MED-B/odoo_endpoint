@@ -1,3 +1,4 @@
+README.md
 setup.py
 Odoo_Endpoints.egg-info/PKG-INFO
 Odoo_Endpoints.egg-info/SOURCES.txt

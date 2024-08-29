@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name="Odoo Endpoints",
-    version='0.0.1',
+    name="odoo_endpoints",
+    version='0.1.0',
     description='A package to unify odoo endpoints responses templates',
-    url='?',
+    url='https://github.com/MED-B/odoo_endpoint.git',
 
     author='MED-B',
     author_email='MED-B',
